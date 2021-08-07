@@ -1,0 +1,7 @@
+plugins {
+    id 'me.aloboda.leetcode.java-library-conventions'
+}
+
+dependencies {
+}
+

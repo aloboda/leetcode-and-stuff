@@ -1,0 +1,4 @@
+plugins {
+    id 'me.aloboda.leetcode.java-common-conventions'
+    id 'java-library'
+}
